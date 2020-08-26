@@ -1,0 +1,12 @@
+Q:   What is Object Oriented Programming?
+
+Ans: Object-oriented programming: As the name suggests, Object-Oriented Programming or OOPs refers to 
+     languages that uses objects in programming. ..
+
+
+Q:   What is Object?
+Ans: An object is a collection of data and methods that operate on its data.
+
+Q:   Why OOPS?
+Ams: The main aim of OOP is to bind together the data and the functions that operate on them so that no other 
+     part of the code can access this data except that function.

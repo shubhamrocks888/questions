@@ -1,0 +1,35 @@
+#Compile Time Polymorphism: 
+
+->Whenever an object is bound with their functionality at the compile-time, this is known as the compile-time polymorphism.
+Example: Method overloading
+
+
+
+#Run-Time Polymorphism:
+
+ Whenever an object is bound with the functionality at run time, this is known as runtime polymorphism. 
+ The runtime polymorphism can be achieved by method overriding.
+
+
+
+
+SR.NO	COMPILE TIME POLYMORPHISM					RUN TIME POLYMORPHISM
+1	In Compile time Polymorphism, the call is 		In Run time Polymorphism, the call is not resolved by the compiler.
+	resolved by the compiler.
+
+2	It is also known as Static binding,			It is also known as Dynamic binding, Late binding and 						Early binding and overloading as well.		        overriding as well.				
+
+
+3	Method overloading is the compile-time polymorphism 	Method overriding is the runtime polymorphism having same method with
+	where more than one methods share the same name with    same parameters or signature, but associated in different classes.
+	different parameters or signature and different 
+	return type.	
+
+4	It is achieved by function overloading and operator 	It is achieved by virtual functions and pointers.
+	overloading.
+
+5	It provides fast execution because the method 		It provides slow execution as compare to early binding because 
+	that needs to be executed is known early at		the method that needs to be executed is known at the runtime.
+	the compile time.
+	 
+ 6	Compile time polymorphism is less flexible as all 	Run time polymorphism is more flexible as all things 						things execute at compile time.				execute at run time.

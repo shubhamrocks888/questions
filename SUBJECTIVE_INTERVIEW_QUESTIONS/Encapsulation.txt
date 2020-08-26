@@ -1,0 +1,15 @@
+Q:   What is Encapsulation?
+
+Ans: Encapsulation is an Object Oriented Programming concept that binds together the data and functions 
+     that manipulate the data, and that keeps both safe from outside interference and misuse. 
+     
+     The best example of encapsulation could be a calculator.
+
+
+
+Encapsulation is referred to one of the following two notions.
+1) Data hiding: A language feature to restrict access to members of an object. For example, private and protected members in C++.
+
+
+2) Bundling of data and methods together: Data and methods that operate on that data are bundled together.
+

@@ -1,0 +1,18 @@
+#Abstraction in OOP. 
+
+Abstraction is defined as a work of art where the subject or theme is implied.
+
+		'OR'
+
+Objects in an OOP language provide an abstraction that hides 
+the internal implementation details. Similar to the coffee machine in your kitchen, 
+you just need to know which methods of the object are available to call and which input 
+parameters are needed to trigger a specific operation.
+
+
+
+#Abstraction using Classes: 
+
+We can implement Abstraction in C++ using classes. 
+Class helps us to group data members and member functions using available access specifiers. 
+A Class can decide which data member will be visible to outside world and which is not.

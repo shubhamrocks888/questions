@@ -1,0 +1,13 @@
+What is polymorphism and example?
+
+The word polymorphism means having many forms. In simple words, we can define polymorphism 
+as the ability of a message to be displayed in more than one form. 
+
+Real life example of polymorphism: 
+A person at the same time can have different characteristic. Like a man at the same time is a father, a husband, an employee.
+
+
+->Polymorphism is the ability of any data to be processed in more than one form. ... 
+->Polymorphism is one of the most important concept of object oriented programming language. 
+->The most common use of polymorphism in object-oriented programming occurs when a parent class reference 
+  is used to refer to a child class object.
