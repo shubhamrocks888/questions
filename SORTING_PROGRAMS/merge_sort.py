@@ -1,3 +1,18 @@
+            ##Merge Sort Algorithm
+->Merge sort is one of the most efficient sorting algorithms. It works on the principle of Divide and Conquer.
+->Merge sort repeatedly breaks down a list into several sublists until each sublist consists of a single element and
+  merging those sublists in a manner that results into a sorted list.
+
+
+A merge sort works as follows: 
+
+##Top-down Merge Sort Implementation:
+->The top-down merge sort approach is the methodology which uses recursion mechanism.
+  It starts at the Top and proceeds downwards, with each recursive turn asking the same question such as “What is required to
+  be done to sort the array?” and having the answer as, “split the array into two, make a recursive call, and merge the results.”,
+  until one gets to the bottom of the array-tree.
+
+
 #PYTHON-PROGRAM:
 def merge(arr,start,mid,end):
     temp = [0] * (end-start+1)
