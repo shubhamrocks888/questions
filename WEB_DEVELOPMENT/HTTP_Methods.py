@@ -13,7 +13,10 @@ DELETE
 ->They are used to perform four possible actions: Create, Read, Update and Delete (CRUD).
 
 ##NOTE
-Each URL is called a request while the data sent back to you is called a response.
+->Each URL is called a request while the data sent back to you is called a response.
+
+->A Http request is meant to either retrieve data from a specified URI or to push data to a server. 
+  It works as a request-response protocol between a client and a server.
 
 
 
